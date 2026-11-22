@@ -1,0 +1,9 @@
+{
+ "format": 1,
+ "name": "algebraic-cycles-and-motives-workbench",
+ "title": "Algebraic cycles and motives",
+ "scope": "The Hodge, Tate and standard conjectures, weights and purity, correspondences, periods, motives and their Galois groups.",
+ "msc": "14C25; 14C30; 14F20; 11G25",
+ "index": "https://github.com/KokunoYumeto/mathematics-workbenches",
+ "licence": "CC0-1.0"
+}

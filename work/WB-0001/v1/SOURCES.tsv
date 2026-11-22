@@ -1,0 +1,5 @@
+key	citation	address	used	how_read
+Alpoge2026	L. Alpöge, note on the Riemann hypothesis, 20 November 2026	https://alpo.ge/remark.pdf	footnote 3: the sketch	read at the source
+Katz1993	N. Katz, Affine cohomological transforms, perversity, and monodromy, J. Amer. Math. Soc. 6 (1993)	https://doi.org/10.1090/s0894-0347-1993-1161307-0	appendix, A.3-A.5: Deligne's weak Lefschetz theorem	read at the source by the second check
+WeilI	P. Deligne, La conjecture de Weil I, Publ. Math. IHES 43 (1974)	https://github.com/KokunoYumeto/pierre-deligne	the theorem compared	statement compared
+WeilII	P. Deligne, La conjecture de Weil II, Publ. Math. IHES 52 (1980)	https://github.com/KokunoYumeto/pierre-deligne	Theoreme 3.3.1, compared	statement compared
