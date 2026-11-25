@@ -10,6 +10,7 @@ motives, much of it in answer to questions and programmes of Grothendieck, Weil 
 | Number | Work | State | Records |
 |---|---|---|---|
 | [WB-0001](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0001.md) | [A short proof of Deligne's bound for Frobenius eigenvalues, after Alpöge](https://hexagonmath.org/2611.00789) | deposited, version 1 | [`work/WB-0001/v1`](work/WB-0001/v1/README.md) |
+| [WB-0017](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0017.md) | [Multiplication by 2 and by 6 through products of Jacobians, and the Jacobian index of a very general abelian variety of dimension 4, 5 and 6](https://hexagonmath.org/2611.01067) | deposited, version 1 | [`work/WB-0017/v1`](work/WB-0017/v1/README.md) |
 
 ## How this repository works
 
